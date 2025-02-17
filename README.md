@@ -1,6 +1,6 @@
 ## Steps to Run the Project
-# Create intial files
-# Update `Package.json`
+* Create intial files
+* Update `Package.json`
 # Create `src/lib/supabase.ts`
 # install dependencies
     `npm install`
